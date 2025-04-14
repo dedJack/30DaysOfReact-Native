@@ -1,6 +1,0 @@
-[submodule "FirstNative"]
-	path = FirstNative
-	url = https://github.com/dedJack/FirstNative.git
-[submodule "apps/secondnative"]
-	path = apps/secondnative
-	url = https://github.com/dedJack/secondnative.git
