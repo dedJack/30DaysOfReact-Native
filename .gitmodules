@@ -4,3 +4,6 @@
 [submodule "SecondNative"]
 	path = SecondNative
 	url = https://github.com/dedJack/SecondNative.git
+[submodule "ThirdNative"]
+	path = ThirdNative
+	url = https://github.com/dedJack/ThirdNative.git
