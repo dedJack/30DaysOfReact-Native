@@ -7,3 +7,6 @@
 [submodule "ThirdNative"]
 	path = ThirdNative
 	url = https://github.com/dedJack/ThirdNative.git
+[submodule "ChefsCompass"]
+	path = ChefsCompass
+	url = https://github.com/dedJack/ChefsCompass.git
